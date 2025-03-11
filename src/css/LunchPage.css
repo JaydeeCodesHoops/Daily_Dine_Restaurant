@@ -1,0 +1,72 @@
+.lunchpageBG{
+    background-image: url('../assets/quick-food.jpg');
+    background-size: cover;
+    height: 100vh;
+    width: 100vw;
+  background-position: center;
+  background-repeat: no-repeat;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.lunchpageContent1{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.LunchPurchaseContent{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 30px;
+}
+
+.burgerAndChips{
+  display: flex;
+  /* flex-direction: column; */
+  gap: 200px;
+  align-items: center;
+  justify-content: center;
+  width: 75vw;
+  margin: 30px;
+  background-color: white;
+}
+
+.wraps{
+  display: flex;
+  /* flex-direction: column; */
+  gap: 200px;
+  align-items: center;
+  justify-content: center;
+  width: 75vw;
+  margin: 30px;
+  background-color: none;
+  color: white;
+}
+
+.gatsby{
+  display: flex;
+  /* flex-direction: column; */
+  gap: 200px;
+  align-items: center;
+  justify-content: center;
+  width: 75vw;
+  margin: 30px;
+  background-color: white;
+}
+
+.pizza{
+  display: flex;
+  /* flex-direction: column; */
+  gap: 200px;
+  align-items: center;
+  justify-content: center;
+  width: 75vw;
+  margin: 30px;
+  background-color: none;
+  color: white;
+}

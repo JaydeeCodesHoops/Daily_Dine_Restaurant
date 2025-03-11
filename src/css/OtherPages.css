@@ -1,0 +1,26 @@
+.otherpagesHeader{
+    padding: 20px;
+    width: 100;
+    background-color: black;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.OthersLogo{
+    width: 300px;
+    height: 120px;
+    margin-left: 60px;
+}
+
+.OthersBackButton{
+    margin-right: 100px;
+    cursor: pointer;
+    padding: 15px;
+    border-radius: 15px;
+}
+
+.OthersBackButton:hover{
+    border: 2px solid white;
+}
